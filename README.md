@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello!
+I'm Tomas - I think of my self as a data professional. 
 
-<!--
-**TomasPel/tomaspel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started as Marketing manager then moved to internship as Business Analyst I quickly understood that the most exciting part
+of my work - write complex SQL queries. Changed my job to small consulting company in which I was one man team which opened my eyes.
+I like more pipelining and data infra than analysing data. 
 
-Here are some ideas to get you started:
+__Have experience of multiple technologies:__
+* Python - from automating simple repetitive things to some 
+  Data Science experimentation
+* Apache Spark - made some internal course to cover basics and a bit 
+of performance related matters, spark UI
+* MSSQL (2008, 2012) SSAS/SSIS/SSRS/SSMS
+* and many others, but to smaller scale (PoC, testing out and etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__I have quite deep knowledge on data modeling topics:__
+* Star/Snowflake Schema
+* Data Vault
+
+Have created a basic guide for people [Guide to Datawarehousing](https://towardsdatascience.com/guide-to-data-warehousing-6fdcf30b6fbe)
+which covers my mentioned approaches + data lake + lake house to some extent.
+
+On some regularity I'm writing more things on [Medium](http://tomaspeluritis.medium.com), you can follow me there or follow me on [LinkedIn](https://www.linkedin.com/in/tomas-peluritis-99216854/).
