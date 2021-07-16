@@ -20,4 +20,4 @@ __I have quite deep knowledge on data modeling topics:__
 Have created a basic guide for people [Guide to Datawarehousing](https://towardsdatascience.com/guide-to-data-warehousing-6fdcf30b6fbe)
 which covers my mentioned approaches + data lake + lake house to some extent.
 
-On some regularity I'm writing more things on [Medium](http://tomaspeluritis.medium.com), you can follow me there or follow me on [LinkedIn](https://www.linkedin.com/in/tomas-peluritis-99216854/).
+On some regularity I'm writing more things on [Medium](http://tomaspeluritis.medium.com), you can follow me there or follow me on [LinkedIn](https://www.linkedin.com/in/tomaspeluritis/).
