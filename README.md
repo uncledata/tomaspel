@@ -6,10 +6,11 @@ of my work - write complex SQL queries. Changed my job to small consulting compa
 I like more pipelining and data infra than analysing data. 
 
 __Have experience of multiple technologies:__
+* Current love - dbt [My post on medium](https://towardsdatascience.com/oh-my-dbt-data-build-tool-ba43e67d2531)
 * Python - from automating simple repetitive things to some 
   Data Science experimentation
 * Apache Spark - made some internal course to cover basics and a bit 
-of performance related matters, spark UI
+of performance related matters, spark UI [Certified Spark Developer](https://credentials.databricks.com/fc2c966b-e1ad-4587-9c97-af33a0f3d10a)
 * MSSQL (2008, 2012) SSAS/SSIS/SSRS/SSMS
 * and many others, but to smaller scale (PoC, testing out and etc.)
 
